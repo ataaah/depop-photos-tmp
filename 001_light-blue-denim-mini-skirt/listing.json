@@ -1,0 +1,76 @@
+{
+  "item_id": "001",
+  "slug": "light-blue-denim-mini-skirt",
+  "listing": {
+    "title_line": "Light blue denim mini skirt with raw frayed hem",
+    "fit_note": "Waist measures 16” flat, length 14”",
+    "description": "Light blue denim mini skirt with raw frayed hem\nModel: 5'8\nAll measurements in photos\n#Y2K #grunge #denim #indie",
+    "hashtags": [
+      "Y2K",
+      "grunge",
+      "denim",
+      "indie"
+    ],
+    "category": "Women",
+    "subcategory": "Skirts",
+    "brand": "American Eagle",
+    "brand_confidence": 0.9,
+    "condition": "used_fair",
+    "condition_confidence": 0.75,
+    "size": "12",
+    "size_confidence": 0.1,
+    "colours": [
+      "light blue"
+    ],
+    "price": 30,
+    "price_low": 18.0,
+    "price_high": 32.0,
+    "price_note": "Unknown brand denim mini skirt; priced at the high end for review since discounts can be added later.",
+    "currency": "USD",
+    "depop_category": "Women >> Bottoms >> Skirts (womenswear, bottoms, skirts)",
+    "depop_colours": [
+      "Blue (blue)"
+    ],
+    "depop_brand": "",
+    "source": "Preloved (preloved)",
+    "age": "",
+    "styles": [
+      "Y2K (y2_k)",
+      "Grunge (grunge)",
+      "Indie (indie)"
+    ]
+  },
+  "measurements": {
+    "waist": {
+      "value": 16.0,
+      "unit": "in",
+      "confidence": 1
+    },
+    "length": {
+      "value": 14.0,
+      "unit": "in",
+      "confidence": 1
+    }
+  },
+  "warnings": [
+    "measurement_issue:tape_start_not_visible",
+    "listing:brand tag not readable in photos",
+    "listing:size tag not visible; use measurements for sizing",
+    "listing:verify whether raw/frayed hem is intentional or altered",
+    "low_confidence:size"
+  ],
+  "photos": [
+    "001_cover.jpg",
+    "002_left.jpg",
+    "003_other.jpg",
+    "004_left.jpg",
+    "005_measurement.jpg",
+    "006_measurement.jpg"
+  ],
+  "edited_fields": [
+    "brand",
+    "condition",
+    "price",
+    "size"
+  ]
+}
